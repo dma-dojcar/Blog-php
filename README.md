@@ -1,1 +1,1 @@
-#Simple blog in php
+Simple blog in php
